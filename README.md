@@ -29,16 +29,16 @@ The two files required are:
 ```
 Type these two programs in, or use the comms link to transfer them from the PC. Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.  
 
-Insert LOCK into the main menu (with the Mode key) so that from then on, the L key can be used to lock up the organiser.
+Insert LOCK into the main menu (with the Mode key) so that from then on, the L key can be used to lock up the organiser.  
 
 ## FILEDIR
 by Chris Lawrence  
 
-This is a procedure for the Psion CM/XP that lists all data files in the organiser, including all packs.
+This is a procedure for the Psion CM/XP that lists all data files in the organiser, including all packs.  
 
 **Instructions**
 
-Simply run the procedure, and press any key whenever you wish to see the next filename.
+Simply run the procedure, and press any key whenever you wish to see the next filename.  
 
 **Installation**
 
@@ -47,3 +47,22 @@ Required file:
   FILEDIR - procedure
 ```
 Type in FILEDIR, or use the comms link to transfer it from the PC. Translate it, and if you wish save it to a pack. If you are using a 4-line machine, you can translate this program normally, or with the Xtran option.  
+
+## PACKMEM
+by Chris Lawrence  
+
+This is a procedure for the Psion CM/XP that displays the amount of free space on its packs.  
+
+**Instructions**
+
+Simply run the procedure, and press any key whenever you wish to see the next pack. If a pack is found that does not have a MAIN file like it should, it asks if you wish to create it.  
+
+**Installation**
+
+The two files required are:
+```
+  PACKMEM - main program
+  YN% - returns 1 if Y is selected in answer to the question supplied
+```
+
+Type these two programs in, or use the comms link to transfer them from the PC. (Note that although YN% is called YN_.OPL on the PC, you should treat it just as if it were YN%.OPL). Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.
