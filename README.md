@@ -1,5 +1,5 @@
 # Psion Organiser II programs
-These programs were written by me in the late 1980's for my Psion Organiser II XP.
+These programs were written by me in the late 1980's for my Psion Organiser II XP.  
 
 ## LOCK
 by Chris Lawrence  
@@ -30,3 +30,20 @@ The two files required are:
 Type these two programs in, or use the comms link to transfer them from the PC. Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.  
 
 Insert LOCK into the main menu (with the Mode key) so that from then on, the L key can be used to lock up the organiser.
+
+## FILEDIR
+by Chris Lawrence  
+
+This is a procedure for the Psion CM/XP that lists all data files in the organiser, including all packs.
+
+**Instructions**
+
+Simply run the procedure, and press any key whenever you wish to see the next filename.
+
+**Installation**
+
+Required file:
+```
+  FILEDIR - procedure
+```
+Type in FILEDIR, or use the comms link to transfer it from the PC. Translate it, and if you wish save it to a pack. If you are using a 4-line machine, you can translate this program normally, or with the Xtran option.  
