@@ -22,11 +22,12 @@ The program has full error trapping and checking, and will gracefully deal with 
 
 **Installation**
 
-The two files required are:
+Required files:
 ```
-  LOCK - main program
-  LOCK$ - init program (can only be called from LOCK)
+LOCK - main program
+LOCK$ - init program (can only be called from LOCK)
 ```
+
 Type these two programs in, or use the comms link to transfer them from the PC. Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.  
 
 Insert LOCK into the main menu (with the Mode key) so that from then on, the L key can be used to lock up the organiser.  
@@ -42,10 +43,11 @@ Simply run the procedure, and press any key whenever you wish to see the next fi
 
 **Installation**
 
-Required file:
+Required files:
 ```
-  FILEDIR - procedure
+FILEDIR - main program
 ```
+
 Type in FILEDIR, or use the comms link to transfer it from the PC. Translate it, and if you wish save it to a pack. If you are using a 4-line machine, you can translate this program normally, or with the Xtran option.  
 
 ## PACKMEM
@@ -59,10 +61,10 @@ Simply run the procedure, and press any key whenever you wish to see the next pa
 
 **Installation**
 
-The two files required are:
+Required files:
 ```
-  PACKMEM - main program
-  YN% - returns 1 if Y is selected in answer to the question supplied
+PACKMEM - main program
+YN% - returns 1 if Y is selected in answer to the question supplied
 ```
 
 Type these two programs in, or use the comms link to transfer them from the PC. Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.
