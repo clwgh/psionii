@@ -1,5 +1,5 @@
 # Psion Organiser II programs
-These programs were written by me in the late 1980's for my Psion Organiser II XP.  
+These programs were written by me in the late 1980's for my Psion Organiser II XP.  They're written in OPL (Organiser Programming Language).
 
 ## LOCK
 by Chris Lawrence  
