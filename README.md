@@ -65,4 +65,4 @@ The two files required are:
   YN% - returns 1 if Y is selected in answer to the question supplied
 ```
 
-Type these two programs in, or use the comms link to transfer them from the PC. (Note that although YN% is called YN_.OPL on the PC, you should treat it just as if it were YN%.OPL). Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.
+Type these two programs in, or use the comms link to transfer them from the PC. Translate them, and if you wish save them to a pack. If you are using a 4-line machine, you can translate the procedures normally or with Xtran, as both will produce valid programs.
